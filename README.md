@@ -229,7 +229,7 @@ Database: MongoDB Atlas
 
 👨‍💻 Author
 
-Shreyash Bora
+PRIYANSH KATIYAR
 
 
 📜 License
